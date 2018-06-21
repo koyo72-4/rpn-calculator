@@ -1,3 +1,5 @@
+// with Julia and Jake D
+
 var Calculator = function() {
     var stack = [];
     return {
